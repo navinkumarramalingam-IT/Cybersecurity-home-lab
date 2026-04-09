@@ -1,5 +1,7 @@
 # 📊 Lab 2: Splunk SIEM — Security Monitoring & Log Analysis
 
+📄 **[Download Full Lab PDF with Screenshots](./Splunk_SIEM_Lab_Portfolio.pdf)**
+
 ## Overview
 
 This lab sets up Splunk Enterprise 10.2.2 as a SIEM platform on a Windows host machine, ingests multiple log sources including Windows Event Logs, performance metrics, and Linux authentication logs, and uses SPL (Splunk Processing Language) to search for and detect suspicious activity. The workflow mirrors what a SOC analyst does during a shift — onboarding data, writing detection queries, and investigating security events.
