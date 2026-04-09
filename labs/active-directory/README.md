@@ -1,5 +1,7 @@
 # 🖥️ Lab 1: Windows Active Directory — Enterprise Identity Management
 
+📄 **[Download Full Lab PDF with Screenshots](./AD_Lab_Portfolio.pdf)**
+
 ## Overview
 
 This lab builds a fully functional Active Directory domain from scratch using Windows Server 2025 and Windows 11 in a VMware Workstation Pro environment. It covers server configuration, AD DS installation, OU/user/group management, Group Policy, network drive mapping, USB restriction, and account lockout — all tasks performed daily by IT administrators and help desk staff.
